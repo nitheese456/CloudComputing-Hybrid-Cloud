@@ -1,0 +1,6 @@
+AMI_ID = 'ami-0eef82b91563713c7' 
+KEY_NAME = 'appTierKeyPair'
+SECURITY_GROUP = 'sg-0021bd87818b22933'
+WEB_INSTANCE_ID = 'i-09b98c8378ecda8c5'
+REQUEST_QUEUE_URL = 'https://sqs.us-west-2.amazonaws.com/399414555557/Request-Queue'
+ROLE_ARN = 'arn:aws:iam::399414555557:instance-profile/sqs-s3-ec2-full-access'
